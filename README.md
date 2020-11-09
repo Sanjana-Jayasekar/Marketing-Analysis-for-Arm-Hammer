@@ -12,7 +12,7 @@ The purpose of this project is to analyse the Arm & Hammer detergent data set an
 * Machine Learning
 * Data Visualization
 
-### Technologies
+### Tech Stack
 * SAS 
 * R
 
